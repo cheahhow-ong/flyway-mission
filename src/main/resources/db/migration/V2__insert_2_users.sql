@@ -1,0 +1,2 @@
+INSERT INTO registration_users(username, first_name, last_name, email) VALUES('callicoder', 'Rajeev', 'Singh', 'dfdfdfd');
+INSERT INTO registration_users(username, first_name, last_name, email) VALUES('flywaytest', 'Flyway', 'Test', 'qweqweqwe');
